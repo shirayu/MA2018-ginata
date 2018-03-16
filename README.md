@@ -4,14 +4,10 @@
 [![Apache License](http://img.shields.io/badge/license-APACHE2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 - [NLP2018(言語処理学会第24回年次大会)](http://www.anlp.jp/nlp2018/)の[ワークショップ 形態素解析の今とこれから](https://sites.google.com/view/nlp2018ws)で発表
-    - 林部祐太「ぎなた読みの自動生成の試み」，言語処理学会第24回年次大会ワークショップ 形態素解析の今とこれから．(2018.3.16)
+    - 林部祐太「ぎなた読みの自動生成の試み」，言語処理学会第24回年次大会ワークショップ 形態素解析の今とこれから．(2018.3.16) [[slide]](https://hayashibe.jp/publications/MA2018.pdf)
 - ウェブコーパスにおいて一定の出現頻度以上のあるn-gramに対し，異なる形態素分割が可能か調査する
     - [出力例](https://github.com/shirayu/MA2018-ginata/releases)
 
-```
-|長いも|と|
-|長い|もと|
-```
 
 
 ## Requirements
