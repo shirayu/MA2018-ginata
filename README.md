@@ -1,5 +1,5 @@
 
-# なぎた読みの自動生成の試み
+# ぎなた読みの自動生成の試み
 
 [![Apache License](http://img.shields.io/badge/license-APACHE2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
